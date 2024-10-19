@@ -4,7 +4,7 @@
 
 💞️ Estou em busca de colaborações em projetos inovadores relacionados a análise de dados, soluções de IA e infraestrutura em nuvem. Sempre aberto a trabalhar com profissionais de mentalidade semelhante na indústria de tecnologia.
 
-📫 Como me encontrar: Sinta-se à vontade para se conectar comigo via meu perfil no GitHub ou [LinkedIn] (https://www.linkedin.com/in/james-fonseca-545810b8/).
+📫 Como me encontrar: Sinta-se à vontade para se conectar comigo via meu perfil no GitHub ou [LinkedIn](https://www.linkedin.com/in/james-fonseca-545810b8/).
 
 ⚡ Fato curioso: Quando não estou imerso em dados, sou um grande fã de animes e video games!
 
